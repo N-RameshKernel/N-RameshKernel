@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
+<!-- Dynamic Waving Header -->
 <a href="https://github.com/N-RameshKernel">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=N.%20Ramesh&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Explorer&descAlignY=55&descSize=18" alt="Header" />
 </a>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+%26+Interactive+Systems;AI+%2B+Full-Stack+%2B+Cybersecurity;B.Tech+AI%26ML+%40+SITAMS+%7C+Chittoor;Co-Founder+%40+Rail+Track+Platform;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+%26+Interactive+Systems;AI+%2B+Full-Stack+%2B+Cybersecurity;B.Tech+AI%26ML+%40+SITAMS+%7C+Chittoor;Co-Founder+%40+Rail+Track+Platform;11+Projects+%7C+3+Ongoing+%7C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Badges Row -->
 <a href="https://github.com/N-RameshKernel">
   <img src="https://komarev.com/ghpvc/?username=N-RameshKernel&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </a>
@@ -30,18 +30,20 @@ class RameshN:
     def __init__(self):
         self.name        = "N. Ramesh"
         self.alias       = "N-RameshKernel"
-        self.role        = ["AI Engineer", "Full-Stack Developer", "Cybersecurity Learner"]
+        self.role        = ["AI Engineer", "Full-Stack Developer", "Cybersecurity Explorer"]
         self.location    = "Chittoor, Andhra Pradesh, India 🇮🇳"
         self.education   = "B.Tech AI & ML @ SITAMS (2025–2029)"
-        self.languages   = ["English", "Telugu", "Japanese", "Tamil"]
+        self.languages   = ["English 🇺🇸", "Telugu 🇮🇳", "Japanese 🇯🇵", "Tamil 🇮🇳"]
         self.email       = "galaxyfg0623@gmail.com"
+        self.projects    = 11   # 8 shipped · 3 ongoing
 
     def current_focus(self):
         return {
-            "building"  : ["NeuralVault – Privacy-first Air-gapped LLM for Indian Gov", 
-                           "Rail Track – Indian Railway Intelligence Platform"],
-            "learning"  : ["Advanced LLM Architecture", "Agentic AI Systems", "Red Team Cybersecurity"],
-            "exploring" : ["MCP (Model Context Protocol)", "RAG Pipelines", "Vision-Language Models"],
+            "building"   : ["NeuralVault – Air-gapped LLM for DRDO/ISRO/MHA",
+                            "Rail Track – Indian Railway Intelligence Platform",
+                            "BharatMind – Generalist AI for India's linguistic diversity"],
+            "learning"   : ["Agentic AI & N8N Workflows", "Red Team Cybersecurity", "LLM Architecture"],
+            "exploring"  : ["MCP (Model Context Protocol)", "RAG Pipelines", "Vision-Language Models"],
         }
 
     def philosophy(self):
@@ -67,17 +69,34 @@ print(me.philosophy())
 
 ---
 
-## 🚀 Flagship Projects
+## 🚀 Project Portfolio
+
+### 🔴 Ongoing (Active Development)
 
 <div align="center">
 
-| 🏗️ Project | 🔍 Description | 🛠️ Stack | 🔗 |
-|---|---|---|---|
-| **NeuralVault** | Privacy-first Air-gapped LLM workspace for DRDO, ISRO, MHA — DPDP Act 2023 compliant | Python · LLM · Docker · FastAPI | 🔒 Stealth |
-| **Rail Track** | Indian Railway Intelligence Platform with real-time analytics | Node.js · PostgreSQL · React | 🚂 Active |
-| **AgroSat-VLM** | Vision-Language Model for multispectral satellite imagery (Andhra, Telangana, Odisha) | PyTorch · FastAPI · React | 🛰️ Active |
-| **AgroSense** | AI-powered crop advisory app for Indian farmers | FastAPI · React/TS · Docker | 🌾 Active |
-| **BharatMind** | Generalist AI system for India's linguistic & legal diversity | LLM · RAG · MCP | 🧠 Concept |
+| # | 🏗️ Project | 🔍 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|---|
+| 01 | **[NeuralVault](https://github.com/N-RameshKernel/NeuralVault)** | Privacy-first air-gapped LLM workspace for DRDO, ISRO, MHA — DPDP Act 2023 compliant | Python · LLM · Docker · FastAPI | 🔒 Stealth |
+| 02 | **[BharatMind](https://github.com/N-RameshKernel/BharatMind)** | Generalist AI system for India's linguistic & legal diversity | LLM · RAG · MCP · Agentic AI | 🧠 Building |
+| 03 | **[Rail Track](https://github.com/N-RameshKernel/Rail-Track)** | Indian Railway Intelligence Platform with real-time analytics | Node.js · PostgreSQL · React | 🚂 Building |
+
+</div>
+
+### ✅ Shipped Projects
+
+<div align="center">
+
+| # | 🏗️ Project | 🔍 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|---|
+| 04 | **[AGROSENSE](https://github.com/N-RameshKernel/AGROSENSE)** | AI-powered crop advisory app for Indian farmers with disease detection | FastAPI · React/TS · Docker · ML | [🔗 Repo](https://github.com/N-RameshKernel/AGROSENSE) |
+| 05 | **[CloudGuard](https://github.com/N-RameshKernel/CloudGuard)** | Cloud security monitoring & threat detection platform | Python · AWS · Azure · Splunk | [🔗 Repo](https://github.com/N-RameshKernel/CloudGuard) |
+| 06 | **[AUTOSECAI](https://github.com/N-RameshKernel/AUTOSECAI)** | Automated AI-driven security vulnerability scanner | Python · Metasploit · Nmap · ML | [🔗 Repo](https://github.com/N-RameshKernel/AUTOSECAI) |
+| 07 | **[PixelNav](https://github.com/N-RameshKernel/PixelNav)** | AI-powered visual navigation system using computer vision | PyTorch · OpenCV · React | [🔗 Repo](https://github.com/N-RameshKernel/PixelNav) |
+| 08 | **[SYNAPSE_WAR](https://github.com/N-RameshKernel/SYNAPSE_WAR)** | Neural network-driven AI war simulation & strategy game | Python · PyTorch · Game AI | [🔗 Repo](https://github.com/N-RameshKernel/SYNAPSE_WAR) |
+| 09 | **[SimAgent-X](https://github.com/N-RameshKernel/SimAgent-X)** | Multi-agent simulation framework for intelligent NPC design | Python · Agentic AI · LLM | [🔗 Repo](https://github.com/N-RameshKernel/SimAgent-X) |
+| 10 | **[NeuroVerse](https://github.com/N-RameshKernel/NeuroVerse)** | Immersive AI-powered virtual universe with intelligent agents | Python · LLM · Three.js · WebGL | [🔗 Repo](https://github.com/N-RameshKernel/NeuroVerse) |
+| 11 | **[AutoCortex-AI](https://github.com/N-RameshKernel/AutoCortex-AI)** | Autonomous AI decision-making & automation pipeline | Python · N8N · Agentic AI · FastAPI | [🔗 Repo](https://github.com/N-RameshKernel/AutoCortex-AI) |
 
 </div>
 
@@ -129,12 +148,19 @@ print(me.philosophy())
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Prompt%20Engineering-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/Agentic%20AI-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### 🗄️ Databases & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -144,22 +170,37 @@ print(me.philosophy())
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔒 Cybersecurity & Networking
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk%20Enterprise-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%232596BE.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%230E83CD.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-%23CC2927.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-%23007ACC.svg?style=for-the-badge&logo=putty&logoColor=white)
+
+### 📊 Analytics & Data
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![SAS](https://img.shields.io/badge/SAS-1477CF?style=for-the-badge&logo=sas&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD009?style=for-the-badge&logo=knime&logoColor=black)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### 🧪 Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
-
-### 📊 Analytics & Hardware
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ---
 
@@ -200,13 +241,13 @@ print(me.philosophy())
 
 <div align="center">
 
-| 🎓 Certification | 🏛️ Issuer |
+| 🎓 Certification | 🏛️ Domain |
 |---|---|
-| MCP (Model Context Protocol) | — |
-| RAG (Retrieval-Augmented Generation) | — |
-| Prompt Engineering for ChatGPT | — |
-| Computer Networks & Network Security | — |
-| Data Science | — |
+| MCP (Model Context Protocol) | AI Infrastructure |
+| RAG (Retrieval-Augmented Generation) | LLM Engineering |
+| Prompt Engineering for ChatGPT | Generative AI |
+| Computer Networks & Network Security | Cybersecurity |
+| Data Science | Analytics & ML |
 
 </div>
 
@@ -231,11 +272,11 @@ print(me.philosophy())
 </div>
 
 ```
-🔭 Currently Building  → NeuralVault & Rail Track Platform
-🌱 Currently Learning  → Agentic AI, Red Team Security, LLM Architecture  
-🤝 Open To             → Collaborations, Internships, Open Source
-💬 Ask Me About        → AI/ML, Full-Stack, RAG, MCP, Indian AI landscape
-⚡ Fun Fact            → I think in 4 languages & code in Python 🐍
+🔭 Currently Building  →  NeuralVault · BharatMind · Rail Track
+🌱 Currently Learning  →  Agentic AI · N8N · Red Team Security · LLM Architecture
+🤝 Open To             →  Collaborations · Internships · Open Source Contributions
+💬 Ask Me About        →  AI/ML · Full-Stack · RAG · MCP · Cybersecurity · Indian AI
+⚡ Fun Fact            →  I think in 4 languages & debug in Python at 2AM 🐍🌙
 ```
 
 ---
