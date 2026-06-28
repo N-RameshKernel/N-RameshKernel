@@ -6,7 +6,7 @@
 </a>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+%26+Interactive+Systems;AI+%2B+Full-Stack+%2B+Cybersecurity;B.Tech+AI%26ML+%40+SITAMS+%7C+Chittoor;Co-Founder+%40+Rail+Track+Platform;11+Projects+%7C+3+Ongoing+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+%26+Interactive+Systems;AI+%2B+Full-Stack+%2B+Cybersecurity;B.Tech+AI%26ML+%40+SITAMS+%7C+Chittoor;11+Projects+%7C+3+Ongoing+%7C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -79,7 +79,7 @@ print(me.philosophy())
 |---|---|---|---|---|
 | 01 | **[NeuralVault](https://github.com/N-RameshKernel/NeuralVault)** | Privacy-first air-gapped LLM workspace for DRDO, ISRO, MHA — DPDP Act 2023 compliant | Python · LLM · Docker · FastAPI | 🔒 Stealth |
 | 02 | **[BharatMind](https://github.com/N-RameshKernel/BharatMind)** | Generalist AI system for India's linguistic & legal diversity | LLM · RAG · MCP · Agentic AI | 🧠 Building |
-| 03 | **[Rail Track](https://github.com/N-RameshKernel/Rail-Track)** | Indian Railway Intelligence Platform with real-time analytics | Node.js · PostgreSQL · React | 🚂 Building |
+| 03 | **[Rail Track](https://github.com/N-RameshKernel/Rail-Track)** | Indian Railway Intelligence Platform with real-time analytics | Node.js · PostgreSQL · React | Co-Partner|
 
 </div>
 
@@ -170,7 +170,6 @@ print(me.philosophy())
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔒 Cybersecurity & Networking
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
@@ -184,7 +183,7 @@ print(me.philosophy())
 ![SQLmap](https://img.shields.io/badge/SQLmap-%23CC2927.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-%23007ACC.svg?style=for-the-badge&logo=putty&logoColor=white)
 
-### 📊 Analytics & Data
+### 📊 Analytics & Hardware
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
@@ -195,6 +194,8 @@ print(me.philosophy())
 ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### 🧪 Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
