@@ -92,24 +92,6 @@ Followers: .............. [ auto-filled by badge below ]
 
 <br>
 
-<!--
-  Live, auto-updating stats (no manual editing needed) — swap YOUR_USERNAME
-  for your actual GitHub username if it differs from N-RameshKernel.
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-RameshKernel&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Ramesh's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-RameshKernel&layout=compact&theme=react&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=N-RameshKernel&theme=react&hide_border=true" alt="GitHub streak" />
-</p>
-
-<h3 align="center">🚀 Currently building</h3>
-<p align="center">
-An ultra-premium cinematic portfolio (Next.js · React · TypeScript · Three.js · GSAP) and
-<b>RAIL-TRACK</b>, an enterprise-grade railway booking platform (Node.js · Express · PostgreSQL · Redis · Socket.io).
-</p>
 
 <!--
   Live, auto-updating stats (no manual editing needed) — swap YOUR_USERNAME
@@ -201,7 +183,7 @@ $ contact
 
 | Project | Status | Stack | Description | Progress |
 |---|---|---|---|---|
-| **[NeuralVault](https://github.com/N-RameshKernel/NeuralVault)** | `BUILDING` | Python · LLM · Docker · FastAPI | Air-gapped, privacy-first LLM workspace built for DPDP Act 2023 compliance | `███████░░░` 70% |
+| **[DARKEL AI](https://github.com/N-RameshKernel/NeuralVault)** | `BUILDING` | Python · LLM · Docker · FastAPI | Air-gapped, privacy-first LLM workspace built for DPDP Act 2023 compliance | `███████░░░` 70% |
 | **[BharatMind](https://github.com/N-RameshKernel/BharatMind)** | `BUILDING` | LLM · RAG · MCP · Agentic AI | Generalist AI system designed for India's linguistic & legal diversity | `██████░░░░` 60% |
 | **[Rail Track](https://github.com/N-RameshKernel/Rail-Track)** | `CO-FOUNDER` | Node.js · PostgreSQL · React | Indian Railway Intelligence Platform with real-time analytics | `███████░░░` 70% |
 
@@ -353,12 +335,15 @@ Red-Team Security       ███░░░░░░░  30%
 
 ## `//` Experience
 
-| Organization | Role | Duration |
-|---|---|---|
-| **MyDailyWork** | Artificial Intelligence Intern | Mar 2026 – Apr 2026 |
-| **SaiKet Systems** | Machine Learning Intern | Feb 2026 – Mar 2026 |
-| **Google Summer of Code** | Project Designer | May 2025 – Aug 2025 |
-| **Rail Track** *(Co-Founder)* | AI Systems & Backend Lead | Ongoing |
+| Organization                    | Role                                | Duration                           | Mode   | Key Technologies / Skills                                                                       | Key Achievements                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------- | ----------------------------------- | ---------------------------------- | ------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **JPMorganChase (Forage)**      | Software Engineer (Job Simulation)  | **May 2026 – Jul 2026 (3 Months)** | Remote | Java 17, Spring Boot, Apache Kafka, Spring Data JPA, H2 Database, REST API, RestTemplate, Maven | • Integrated Kafka into a Spring Boot microservice for high-volume transaction processing.<br>• Implemented transaction validation, persistence, and balance management using JPA and H2.<br>• Connected to an external Incentive REST API using RestTemplate.<br>• Built REST endpoints for user balance queries.<br>• Verified functionality using Maven tests, Embedded Kafka, and debugger-based validation. |
+| **Tata Group (Forage)**         | GenAI Data Analytics Virtual Intern | **May 2026 – Jun 2026 (2 Months)** | Remote | Generative AI, Data Analytics, EDA, Predictive Modeling, AI Strategy, Automation                | • Performed exploratory data analysis using GenAI tools.<br>• Designed a no-code predictive model for customer delinquency risk.<br>• Proposed an AI-powered collections strategy using Agentic AI.<br>• Considered ethical AI principles and regulatory compliance.                                                                                                                                             |
+| **Deloitte Australia (Forage)** | Technology Virtual Intern           | **May 2026 – Jun 2026 (2 Months)** | Remote | Software Development, Dashboard Design, Business Analysis, Communication                        | • Completed software development and coding tasks.<br>• Created a professional dashboard proposal.<br>• Improved technical documentation and stakeholder communication skills.                                                                                                                                                                                                                                   |
+| **Deloitte Australia (Forage)** | Cyber Security Virtual Intern       | **May 2026 – Jun 2026 (2 Months)** | Remote | Cybersecurity, Network Analysis, Incident Response, Log Analysis, Risk Assessment               | • Investigated web activity logs to identify suspicious behavior.<br>• Assisted in responding to a simulated cyber security incident.<br>• Applied cyber security analysis techniques to support client investigations.                                                                                                                                                                                          |
+| **MyDailyWork**                 | Artificial Intelligence Intern      | **Mar 2026 – Apr 2026 (2 Months)** | Remote | Artificial Intelligence, Python, Machine Learning                                               | • Worked on AI-related projects and practical implementation tasks.<br>• Strengthened Python programming and AI development skills.<br>• Gained hands-on experience with real-world AI workflows.                                                                                                                                                                                                                |
+| **SaiKet Systems**              | Machine Learning Intern             | **Feb 2026 – Mar 2026 (2 Months)** | Remote | Python, Machine Learning, Data Analysis, Feature Engineering, Model Evaluation, Scikit-learn    | • Built and evaluated machine learning models using Python.<br>• Performed data preprocessing and feature engineering.<br>• Improved predictive model performance through optimization.<br>• Collaborated on real-world ML projects following industry practices.<br>• Enhanced analytical, documentation, and teamwork skills.                                                                                  |
+
 
 <br/>
 
