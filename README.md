@@ -121,7 +121,7 @@ An ultra-premium cinematic portfolio (Next.js · React · TypeScript · Three.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh--n)
 [![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-RameshKernel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=firefox&logoColor=white)](https://n-rameshkernel.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=firefox&logoColor=white)](https://n-rameshkernel.github.io/WebPor/)
 [![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galaxyfg0623@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsramesh____/)
 
@@ -304,15 +304,6 @@ Red-Team Security       ███░░░░░░░  30%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=N-RameshKernel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=3B82F6&text_color=C9D1D9" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-RameshKernel&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" height="165" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=N-RameshKernel&background=0D1117&border=6D28D9&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280&hide_border=false" alt="GitHub Streak" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-RameshKernel&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=3B82F6&area=true&hide_border=true" alt="Activity Graph" />
 
 <br/>
@@ -395,9 +386,4 @@ mission:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:0A0A12&height=120&section=footer" alt="footer" />
 
 **Thanks for stopping by — let's build something that lasts.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh--n)
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galaxyfg0623@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=firefox&logoColor=white)](https://n-rameshkernel.github.io/Portfolio/)
-
 </div>
