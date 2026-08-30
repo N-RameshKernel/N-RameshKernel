@@ -183,9 +183,9 @@ $ contact
 
 | Project | Status | Stack | Description | Progress |
 |---|---|---|---|---|
-| **[DARKEL AI](https://github.com/N-RameshKernel/NeuralVault)** | `BUILDING` | Python · LLM · Docker · FastAPI | Air-gapped, privacy-first LLM workspace built for DPDP Act 2023 compliance | `███████░░░` 70% |
-| **[BharatMind](https://github.com/N-RameshKernel/BharatMind)** | `BUILDING` | LLM · RAG · MCP · Agentic AI | Generalist AI system designed for India's linguistic & legal diversity | `██████░░░░` 60% |
-| **[Rail Track](https://github.com/N-RameshKernel/Rail-Track)** | `CO-FOUNDER` | Node.js · PostgreSQL · React | Indian Railway Intelligence Platform with real-time analytics | `███████░░░` 70% |
+| **[DARKEL AI](https://github.com/N-RameshKernel/NeuralVault)** | `BUILDING` | Python · LLM · Docker · FastAPI | Air-gapped, privacy-first LLM workspace built for DPDP Act 2023 compliance | `████████▒` 80% |
+| **[BharatMind](https://github.com/N-RameshKernel/BharatMind)** | `BUILDING` | LLM · RAG · MCP · Agentic AI | Generalist AI system designed for India's linguistic & legal diversity | `█████████▒` 90% |
+| **[Rail Track](https://github.com/N-RameshKernel/Rail-Track)** | `CO-FOUNDER` | Node.js · PostgreSQL · React | Indian Railway Intelligence Platform with real-time analytics | `█████████▒` 95% |
 
 **● Shipped**
 
@@ -288,14 +288,14 @@ $ contact
 ## `//` Current Learning
 
 ```text
-Agentic AI            ███████░░░  70%
-LangGraph              ████░░░░░░  40%
-CrewAI                  ████░░░░░░  40%
-MCP                     ██████░░░░  60%
-Kubernetes              ███░░░░░░░  30%
-Docker                  ██████░░░░  60%
-Linux                   ████████░░  80%
-Red-Team Security       ███░░░░░░░  30%
+Agentic AI             ████████▒  95%
+LangGraph              ████████▒  95%
+CrewAI                  ██████▒▒▒  65%
+MCP                     ██████░░░░  70%
+Kubernetes              ██████▒▒▒  70%
+Docker                  ████████▒  90%
+Linux                   █████████▒  90%
+Red-Team Security       ██████▒▒▒  70%
 ```
 
 <br/>
