@@ -307,16 +307,21 @@ Red-Team Security       ██████▒▒▒  70%
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=N-RameshKernel&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=N-RameshKernel&theme=github-dark&hide_border=true" width="48%" />
 
-<br/>
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=N-RameshKernel&theme=darkhub&no-frame=true&margin-w=8&column=4&row=2" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-RameshKernel&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=N-RameshKernel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4" width="48%" />
 
 </div>
-
-<br/>
 
 ## `//` Achievements Timeline
 
