@@ -307,11 +307,12 @@ Red-Team Security       ██████▒▒▒  70%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-RameshKernel&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=3B82F6&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=N-RameshKernel&theme=darkhub&no-frame=true&margin-w=8&column=4&row=2" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=N-RameshKernel&theme=darkhub&no-frame=true&margin-w=8&column=4&row=2" />
 
 </div>
 
