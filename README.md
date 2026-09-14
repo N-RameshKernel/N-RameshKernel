@@ -272,7 +272,7 @@ $ contact
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1E3A8A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-1E3A8A?style=for-the-badge&logo=OpenBSD&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1E3A8A?style=for-the-badge&logo=ArchLinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1E3A8A?style=for-the-badge&logo=ParrotOS&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1E3A8A?style=for-the-badge&logo=Parrot&logoColor=white)
 
 **Analytics & Hardware**
 ![Power BI](https://img.shields.io/badge/Power%20BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
