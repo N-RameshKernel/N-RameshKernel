@@ -15,8 +15,14 @@
     <a href="https://github.com/N-RameshKernel">
       <img src="https://img.shields.io/badge/GitHub-N--RameshKernel-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
     </a>
+    <a href="https://instagram.com/itsramesh_____">
+      <img src="https://img.shields.io/badge/INSTAGRAM-181717?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram profile" />
+    </a>
     <a href="https://www.linkedin.com/in/ramesh--n">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" />
+    </a>
+    <a href="https://n-rameshkernel.github.io/WebPor/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&amp;logo=tor&amp;logoColor=white" alt="portfolio website" />
     </a>
   </p>
 </div>
