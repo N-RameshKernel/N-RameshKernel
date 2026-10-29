@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A12,50:6D28D9,100:1E3A8A&height=220&section=header&text=N.%20Ramesh&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20AI%20Agent%20Developer&descAlignY=55&descSize=16" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Building+privacy-first%2C+intelligent+systems;AI+Agents+%C2%B7+RAG+%C2%B7+LLM+Engineering;B.Tech+AI+%26+ML+%40+SITAMS+%7C+Chittoor%2C+India;Currently+shipping%3A+DARKEL+%C2%B7+Rail+Track" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Building+privacy-first%2C+intelligent+systems;AI+Agents+%C2%B7+RAG+%C2%B7+LLM+Engineering;B.Tech+AI+%26+ML+%40+SITAMS+%7C+Chittoor%2C+India;Currently+shipping%3A+KATNYO+AI+%C2%B7+Rail+Track" alt="typing animation" />
 
 <h1 align="center">Hi, I'm Ramesh 👋</h1>
 
@@ -10,45 +10,7 @@
 <tr>
 <td width="60%" valign="top">
 
-<pre>
-         #################################################
-         #################################################
-         #################################################
-         #######################+#########################
-         #################################################
-         ##################+##############################
-         #################################################
-         ##################+##+####++-####++##############
-         ####################.-+---#-+########+###########
-         #################+##.-++-++--###++###############
-         ##########+###++-+#....-.----+###------.......---
-         ####++++----------.+...###+--####+-..........----
-         ##+--------------..-#...----+####+-..........----
-         #++-+++---------.....---.-+-######++........-----
-         +++++++--...........+.....++####+#+--#+......----
-         #+--------......+----...-##+##+++.-----+......---
-         ##++-----....----+++--#+#++++++#--------+......--
-         +---...........--++++++#+++#++++---------.....---
-         ..............-.-++#+#++++++#++#+-------+....----
-         ............--...-+#+++++#++##+++--.----+-......-
-         .................-++++++++#++##++---------...----
-         ---.......-.....-+++++#++++###++#+-------+..----.
-         ----.....--....++++++++#+++++++++##+-----+ ......
-         -..--...- ...--+++++++++##+++######----+-+.     .
-         -......-.....---##++++++++++++++++------+-+      
-         -.......-...----###+++++++++++++#------+-+.      
-         .-......-.---+-.#+##+++++++++++#+--------        
-         ....--------....++++#++++++++++-.-----+.      ...
-         ---.--------....-++++####++++++.------       ....
-         .--.............--++#####+##++.----##.           
-         .................+++++++++++-.--+#+++.           
-         ...............-.++++++++-...--++++++.  .........
-         ................-++++++-.....-+++++++-  .........
-         ...............-++++++----.---#+++#++#   ........
-         ..   ...  ..  --++++++#+---++########+...        
-         .        ....+.-++####################-          
-         ...... ....  +.#######################-                              
-</pre>
+<p align="center"><img src="assets/spider-man-profile.gif" width="100%" alt="Spider-Man profile avatar" /></p>
 
 </td>
 <td width="70%" valign="top">
@@ -56,19 +18,19 @@
 ```ini
 ramesh@N-RameshKernel
 ------------------------------------
-OS: ................ [ Your OS, e.g. Windows 11 / Ubuntu 22.04 ]
-Uptime: ............ [ Your age, e.g. 18 years, 6 months ]
+OS: ................ Windows
+Age: ............... Not shared
 Host: ............... SITAMS, Chittoor — B.Tech AI & ML ('25–'29)
 Kernel: .............. AI/ML Engineering Student
-IDE: ................ [ Your main editor, e.g. VS Code 1.9x.x ]
+IDE: ................ Not listed
 
 Languages.Programming: TypeScript, JavaScript, Python, C++, Java
 Languages.Computer: .... HTML, CSS, JSON, YAML, SQL, Prisma
-Languages.Real: ........ English, [ + any others ]
+Languages.Real: ........ English, Telugu, Japanese, Tamil
 
 Hobbies.Software: ...... AI/ML projects, Cybersecurity, Cinematic
                          Web Experiences (WebGL / Three.js / GSAP)
-Hobbies.Hardware: ...... [ Fill in if relevant ]
+Hobbies.Hardware: ...... Not listed
 
 ------------------------------------
 Contact
@@ -110,8 +72,9 @@ Followers: .............. [ auto-filled by badge below ]
 
 <h3 align="center">🚀 Currently building</h3>
 <p align="center">
-An ultra-premium cinematic portfolio (Next.js · React · TypeScript · Three.js · GSAP) and
-<b>RAIL-TRACK</b>, an enterprise-grade railway booking platform (Node.js · Express · PostgreSQL · Redis · Socket.io).
+An ultra-premium cinematic portfolio (Next.js · React · TypeScript · Three.js · GSAP),
+<b>KATNYO AI</b>, a beta AutoML workspace for structured CSV data (Python · FastAPI · Vite · Docker · MLflow), and
+<b>RAIL-TRACK</b>, an Indian Railway Intelligence Platform (Node.js · Express · PostgreSQL · Redis · Socket.io).
 </p>
 
 <a href="https://github.com/N-RameshKernel">
@@ -195,9 +158,7 @@ $ contact
 |---|---|---|
 | **[AGROSENSE](https://github.com/N-RameshKernel/AGROSENSE)** | FastAPI · React/TS · Docker · ML | AI crop advisory app for Indian farmers with disease detection |
 | **[CloudGuard](https://github.com/N-RameshKernel/CloudGuard)** | Python · AWS · Azure · Splunk | Cloud security monitoring & threat detection platform |
-| **[AUTOSECAI](https://github.com/N-RameshKernel/AUTOSECAI)** | Python · Metasploit · Nmap · ML | Automated AI-driven security vulnerability scanner |
-| **[PixelNav](https://github.com/N-RameshKernel/PixelNav)** | PyTorch · OpenCV · React | AI-powered visual navigation using computer vision |
-| **[SYNAPSE_WAR](https://github.com/N-RameshKernel/SYNAPSE_WAR)** | Python · PyTorch · Game AI | Neural-network-driven war simulation & strategy game |
+| **[KATNYO AI](https://github.com/N-RameshKernel/KATNYO-AI)** | Python · FastAPI · Vite · Docker · MLflow | Beta AutoML workspace for structured CSV data: profiling, model training and comparison, predictions, and experiment tracking |
 | **[SimAgent-X](https://github.com/N-RameshKernel/SimAgent-X)** | Python · Agentic AI · LLM | Multi-agent simulation framework for intelligent NPC design |
 | **[NeuroVerse](https://github.com/N-RameshKernel/NeuroVerse)** | Python · LLM · Three.js · WebGL | Immersive AI-powered virtual universe with intelligent agents |
 | **[AutoCortex-AI](https://github.com/N-RameshKernel/AutoCortex-AI)** | Python · N8N · Agentic AI · FastAPI | Autonomous AI decision-making & automation pipeline |
@@ -419,3 +380,4 @@ mission:
 
 **Thanks for stopping by — let's build something that lasts.**
 </div>
+
