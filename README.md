@@ -111,21 +111,14 @@
 <h2 align="center">GitHub analytics</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/stats-dark.svg" width="48%" alt="GitHub statistics" />
-  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/streak-dark.svg" width="48%" alt="GitHub streak" />
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/top-langs-dark.svg" width="48%" alt="Top languages" />
-  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/trophy.svg" width="48%" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-RameshKernel&amp;theme=github_dark" width="48%" alt="GitHub profile statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-RameshKernel&amp;theme=github_dark" width="48%" alt="Repository language breakdown" />
 </div>
 
 <h2 align="center">Contribution graph</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/snake.svg" />
-    <img alt="Ramesh's contribution graph" src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/snake.svg" />
-  </picture>
+  <img src="https://ghchart.rshah.org/E23636/N-RameshKernel" alt="N. Ramesh's GitHub contribution chart" />
 </p>
 
 <hr />
