@@ -1,383 +1,147 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=N-RameshKernel&amp;label=Profile%20views&amp;color=e23636&amp;style=flat-square" alt="Profile views" />
+</p>
+
 <div align="center">
+  <img src="assets/spider-man-profile.gif" width="220" alt="Animated Spider-Man profile avatar" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A12,50:6D28D9,100:1E3A8A&height=220&section=header&text=N.%20Ramesh&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20AI%20Agent%20Developer&descAlignY=55&descSize=16" alt="header banner" />
+  <h1>Hi, I'm N. Ramesh 👋</h1>
+  <p><strong>AI Engineer · Full-Stack Developer · Cybersecurity Researcher · AI Agent Developer</strong></p>
+  <p>Building practical AI systems, agentic applications, and privacy-first software.</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Building+privacy-first%2C+intelligent+systems;AI+Agents+%C2%B7+RAG+%C2%B7+LLM+Engineering;B.Tech+AI+%26+ML+%40+SITAMS+%7C+Chittoor%2C+India;Currently+shipping%3A+KATNYO+AI+%C2%B7+Rail+Track" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=32&amp;duration=2600&amp;pause=500&amp;color=E23636&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Welcome+to+my+profile;AI+%26+ML+at+SITAMS;Building+AI+agents+and+useful+software;Currently+building%3A+KATNYO+AI+%C2%B7+Rail+Track" alt="Animated introduction" />
 
-<h1 align="center">Hi, I'm Ramesh 👋</h1>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<p align="center"><img src="assets/spider-man-profile.gif" width="100%" alt="Spider-Man profile avatar" /></p>
-
-</td>
-<td width="70%" valign="top">
-
-```ini
-ramesh@N-RameshKernel
-------------------------------------
-OS: ................ Windows
-Age: ............... Not shared
-Host: ............... SITAMS, Chittoor — B.Tech AI & ML ('25–'29)
-Kernel: .............. AI/ML Engineering Student
-IDE: ................ Not listed
-
-Languages.Programming: TypeScript, JavaScript, Python, C++, Java
-Languages.Computer: .... HTML, CSS, JSON, YAML, SQL, Prisma
-Languages.Real: ........ English, Telugu, Japanese, Tamil
-
-Hobbies.Software: ...... AI/ML projects, Cybersecurity, Cinematic
-                         Web Experiences (WebGL / Three.js / GSAP)
-Hobbies.Hardware: ...... Not listed
-
-------------------------------------
-Contact
-------------------------------------
-Email.Personal: ........ [ your-email@example.com ]
-GitHub: ................ N-RameshKernel
-LinkedIn: .............. ramesh--n
-Instagram: ............. itsramesh____
-
-------------------------------------
-GitHub Stats
-------------------------------------
-Repos: .................. [ auto-filled by badge below ]
-Stars: .................. [ auto-filled by badge below ]
-Followers: .............. [ auto-filled by badge below ]
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-<!--
-  Cached, self-refreshing stats (no manual editing needed) — the
-  refresh-profile-assets.yml workflow regenerates these daily and
-  commits them into /assets, so this section never depends on a
-  live third-party call while someone is viewing your profile.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/stats-react.svg" alt="Ramesh's GitHub stats" height="165"/>
-  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/top-langs-react.svg" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/streak-react.svg" alt="GitHub streak" />
-</p>
-
-<h3 align="center">🚀 Currently building</h3>
-<p align="center">
-An ultra-premium cinematic portfolio (Next.js · React · TypeScript · Three.js · GSAP),
-<b>KATNYO AI</b>, a beta AutoML workspace for structured CSV data (Python · FastAPI · Vite · Docker · MLflow), and
-<b>RAIL-TRACK</b>, an Indian Railway Intelligence Platform (Node.js · Express · PostgreSQL · Redis · Socket.io).
-</p>
-
-<a href="https://github.com/N-RameshKernel">
-  <img src="https://komarev.com/ghpvc/?username=N-RameshKernel&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="profile views" />
-</a>
-<img src="https://img.shields.io/github/followers/N-RameshKernel?label=Followers&style=for-the-badge&color=3B82F6&logo=github&logoColor=white" alt="followers" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh--n)
-[![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-RameshKernel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=firefox&logoColor=white)](https://n-rameshkernel.github.io/WebPor/)
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galaxyfg0623@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsramesh____/)
-
+  <p>
+    <a href="https://github.com/N-RameshKernel">
+      <img src="https://img.shields.io/badge/GitHub-N--RameshKernel-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
+    </a>
+    <a href="https://www.linkedin.com/in/ramesh--n">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" />
+    </a>
+  </p>
 </div>
 
-<br/>
+<hr />
 
-## `//` AI System Status
+<details open>
+  <summary><strong>Open profile</strong></summary>
 
-```text
-┌──────────────────────────────────────────────────────┐
-│  SYSTEM        DARKEL AI · CORE                       │
-│  STATUS        ● ONLINE                                │
-│  MODEL         Continuous Learning                     │
-│  VERSION       2026.1                                  │
-├──────────────────────────────────────────────────────┤
-│  MISSION                                               │
-│    Building privacy-first, intelligent software        │
-│    for real-world problems.                            │
-├──────────────────────────────────────────────────────┤
-│  ACTIVE RESEARCH                                       │
-│    ▸ AI Agents          ▸ Cybersecurity                │
-│    ▸ DPDP Privacy       ▸ LLM Engineering               │
-└──────────────────────────────────────────────────────┘
-```
+  <h2>About me</h2>
 
-<br/>
+  ~~~js
+  /**
+   * N. Ramesh
+   * Location: Chittoor, Andhra Pradesh, India
+   * Education: B.Tech in AI & ML at SITAMS (2025–2029)
+   * Focus: AI/ML, agentic AI, LLM systems, full-stack development,
+   *        and cybersecurity
+   * Interests: privacy-first software and cinematic web experiences
+   * Languages: English, Telugu, Japanese, and Tamil
+   * Open to: collaborating on useful AI and software projects
+   */
+  ~~~
 
-## `//` Terminal
+  <h2>Currently building</h2>
 
-```bash
-$ whoami
-> N. Ramesh — AI Engineer · Full-Stack Developer · Cybersecurity Researcher · AI Agent Developer
+  - **KATNYO AI** — a beta AutoML workspace for structured CSV data.
+  - **Rail Track** — an Indian Railway Intelligence Platform.
+  - **Cinematic portfolio** — a 3D web experience built with React, Three.js, and GSAP.
 
-$ education
-> B.Tech, Artificial Intelligence & Machine Learning — SITAMS (2025–2029)
+  <h2>Featured projects</h2>
 
-$ location
-> Chittoor, Andhra Pradesh, India
+  | Project | What it does |
+  | --- | --- |
+  | [KATNYO AI](https://github.com/N-RameshKernel/KATNYO-AI) | AutoML for structured CSV data: profiling, model training and comparison, predictions, and experiment tracking. |
+  | [Darkel AI](https://github.com/N-RameshKernel/NeuralVault) | Privacy-first LLM workspace. |
+  | [BharatMind](https://github.com/N-RameshKernel/BharatMind) | AI system designed for India's linguistic and legal diversity. |
+  | [Rail Track](https://github.com/N-RameshKernel/Rail-Track) | Railway intelligence platform with real-time analytics. |
+  | [AGROSENSE](https://github.com/N-RameshKernel/AGROSENSE) | Crop advisory application with AI disease detection. |
+  | [CloudGuard](https://github.com/N-RameshKernel/CloudGuard) | Cloud security monitoring and threat detection. |
+  | [SimAgent-X](https://github.com/N-RameshKernel/SimAgent-X) | Multi-agent simulation framework for intelligent NPCs. |
+  | [NeuroVerse](https://github.com/N-RameshKernel/NeuroVerse) | AI-powered virtual world with intelligent agents. |
+  | [AutoCortex-AI](https://github.com/N-RameshKernel/AutoCortex-AI) | Autonomous AI decision and automation pipeline. |
+  | [WebPor](https://github.com/N-RameshKernel/WebPor) | Personal portfolio website. |
+</details>
 
-$ current
-> Darkel — privacy-first AI system  ·  Rail Track — Indian Railway Intelligence Platform
+<details>
+  <summary><strong>Tools & technologies</strong></summary>
 
-$ interests
-> AI Agents · RAG · LLM Engineering · Cybersecurity · DPDP Privacy · Generative AI
+  <h3>Programming</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  </p>
 
-$ roadmap
-> Agentic AI → LangGraph → CrewAI → MCP → Kubernetes → Red-Team Security
+  <h3>Web & backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
+  </p>
 
-$ contact
-> see the links below ↓
-```
+  <h3>AI, data & agent systems</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+    <img src="https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Model Context Protocol" />
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+  </p>
 
-<br/>
+  <h3>Databases, cloud & security</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" alt="Nmap" />
+  </p>
+</details>
 
-## `//` Project Command Center
+<h2 align="center">GitHub analytics</h2>
 
-**● Active Development**
-
-| Project | Status | Stack | Description | Progress |
-|---|---|---|---|---|
-| **[DARKEL AI](https://github.com/N-RameshKernel/NeuralVault)** | `BUILDING` | Python · LLM · Docker · FastAPI | Air-gapped, privacy-first LLM workspace built for DPDP Act 2023 compliance | `████████▒` 80% |
-| **[BharatMind](https://github.com/N-RameshKernel/BharatMind)** | `BUILDING` | LLM · RAG · MCP · Agentic AI | Generalist AI system designed for India's linguistic & legal diversity | `█████████▒` 90% |
-| **[Rail Track](https://github.com/N-RameshKernel/Rail-Track)** | `CO-FOUNDER` | Node.js · PostgreSQL · React | Indian Railway Intelligence Platform with real-time analytics | `█████████▒` 95% |
-
-**● Shipped**
-
-| Project | Stack | Description |
-|---|---|---|
-| **[AGROSENSE](https://github.com/N-RameshKernel/AGROSENSE)** | FastAPI · React/TS · Docker · ML | AI crop advisory app for Indian farmers with disease detection |
-| **[CloudGuard](https://github.com/N-RameshKernel/CloudGuard)** | Python · AWS · Azure · Splunk | Cloud security monitoring & threat detection platform |
-| **[KATNYO AI](https://github.com/N-RameshKernel/KATNYO-AI)** | Python · FastAPI · Vite · Docker · MLflow | Beta AutoML workspace for structured CSV data: profiling, model training and comparison, predictions, and experiment tracking |
-| **[SimAgent-X](https://github.com/N-RameshKernel/SimAgent-X)** | Python · Agentic AI · LLM | Multi-agent simulation framework for intelligent NPC design |
-| **[NeuroVerse](https://github.com/N-RameshKernel/NeuroVerse)** | Python · LLM · Three.js · WebGL | Immersive AI-powered virtual universe with intelligent agents |
-| **[AutoCortex-AI](https://github.com/N-RameshKernel/AutoCortex-AI)** | Python · N8N · Agentic AI · FastAPI | Autonomous AI decision-making & automation pipeline |
-
-<br/>
-
-## `//` Skills
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-8B5CF6?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-7C3AED?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-7C3AED?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-7C3AED?style=for-the-badge&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-7C3AED?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-2563EB?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-2563EB?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-2563EB?style=for-the-badge&logo=huggingface&logoColor=white)
-
-**LLM Engineering**
-![LangChain](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-6D28D9?style=for-the-badge&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Prompt Engineering**
-![OpenAI](https://img.shields.io/badge/Prompt%20Engineering-1D4ED8?style=for-the-badge&logo=openai&logoColor=white)
-
-**Databases & Cloud**
-![AWS](https://img.shields.io/badge/AWS-5B21B6?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-5B21B6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-5B21B6?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-5B21B6?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-5B21B6?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-5B21B6?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-5B21B6?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cybersecurity & Networking**
-![Cisco](https://img.shields.io/badge/Cisco-4C1D95?style=for-the-badge&logo=cisco&logoColor=white)
-![TOR](https://img.shields.io/badge/TOR-4C1D95?style=for-the-badge&logo=torproject&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-4C1D95?style=for-the-badge&logo=splunk&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-4C1D95?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-4C1D95?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-4C1D95?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4C1D95?style=for-the-badge&logo=nmap&logoColor=white)
-
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-3B82F6?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-3B82F6?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=for-the-badge&logo=gitlab&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-3B82F6?style=for-the-badge&logo=notion&logoColor=white)
-
-**Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1E3A8A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![OpenBSD](https://img.shields.io/badge/OpenBSD-1E3A8A?style=for-the-badge&logo=OpenBSD&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1E3A8A?style=for-the-badge&logo=ArchLinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1E3A8A?style=for-the-badge&logo=Parrot&logoColor=white)
-
-**Analytics & Hardware**
-![Power BI](https://img.shields.io/badge/Power%20BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-7C3AED?style=for-the-badge&logo=tableau&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-7C3AED?style=for-the-badge&logo=apachespark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-7C3AED?style=for-the-badge&logo=jupyter&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-7C3AED?style=for-the-badge&logo=nvidia&logoColor=white)
-
-**Testing**
-![Jest](https://img.shields.io/badge/Jest-2563EB?style=for-the-badge&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-2563EB?style=for-the-badge&logo=selenium&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-2563EB?style=for-the-badge&logo=vitest&logoColor=white)
-
-<br/>
-
-## `//` Current Learning
-
-```text
-Agentic AI             ████████▒  95%
-LangGraph              ████████▒  95%
-CrewAI                  ██████▒▒▒  65%
-MCP                     ██████░░░░  70%
-Kubernetes              ██████▒▒▒  70%
-Docker                  ████████▒  90%
-Linux                   █████████▒  90%
-Red-Team Security       ██████▒▒▒  70%
-```
-
-<br/>
-
-## `//` GitHub Analytics
-
-<!--
-  These four cards are cached copies generated by
-  refresh-profile-assets.yml (see /assets in this repo). They no
-  longer call the live Vercel/streak-stats/trophy services while
-  your profile is being viewed, so a rate-limited or paused
-  upstream service won't break this section anymore.
--->
 <div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/stats-dark.svg" width="48%" />
-
-<!-- GitHub Streak -->
-<img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/streak-dark.svg" width="48%" />
-
-<br><br>
-
-<!-- Top Languages -->
-<img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/top-langs-dark.svg" width="48%" />
-
-<!-- Trophies -->
-<img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/trophy.svg" width="48%" />
-
+  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/stats-dark.svg" width="48%" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/streak-dark.svg" width="48%" alt="GitHub streak" />
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/top-langs-dark.svg" width="48%" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/trophy.svg" width="48%" alt="GitHub trophies" />
 </div>
 
-<br/>
-
-## `//` Contribution Snake
+<h2 align="center">Contribution graph</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/snake.svg" />
-    <img alt="a snake eating Ramesh's GitHub contribution graph" src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/snake.svg" />
+    <img alt="Ramesh's contribution graph" src="https://raw.githubusercontent.com/N-RameshKernel/N-RameshKernel/main/assets/snake.svg" />
   </picture>
 </p>
 
-<br/>
-
-## `//` Achievements Timeline
-
-```text
-2024 ── Started Programming
-2025 ── AI Projects  ·  Open Source (Google Summer of Code)
-2026 ── Internships (MyDailyWork, SaiKet Systems)  ·  Darkel  ·  Rail Track  ·  Research
-```
-
-<br/>
-
-## `//` Experience
-
-| Organization                    | Role                                | Duration                           | Mode   | Key Technologies / Skills                                                                       | Key Achievements                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------- | ------------------------------------ | ----------------------------------- | ------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **JPMorganChase (Forage)**      | Software Engineer (Job Simulation)  | **May 2026 – Jul 2026 (3 Months)** | Remote | Java 17, Spring Boot, Apache Kafka, Spring Data JPA, H2 Database, REST API, RestTemplate, Maven | • Integrated Kafka into a Spring Boot microservice for high-volume transaction processing.<br>• Implemented transaction validation, persistence, and balance management using JPA and H2.<br>• Connected to an external Incentive REST API using RestTemplate.<br>• Built REST endpoints for user balance queries.<br>• Verified functionality using Maven tests, Embedded Kafka, and debugger-based validation. |
-| **Tata Group (Forage)**         | GenAI Data Analytics Virtual Intern | **May 2026 – Jun 2026 (2 Months)** | Remote | Generative AI, Data Analytics, EDA, Predictive Modeling, AI Strategy, Automation                | • Performed exploratory data analysis using GenAI tools.<br>• Designed a no-code predictive model for customer delinquency risk.<br>• Proposed an AI-powered collections strategy using Agentic AI.<br>• Considered ethical AI principles and regulatory compliance.                                                                                                                                             |
-| **Deloitte Australia (Forage)** | Technology Virtual Intern           | **May 2026 – Jun 2026 (2 Months)** | Remote | Software Development, Dashboard Design, Business Analysis, Communication                        | • Completed software development and coding tasks.<br>• Created a professional dashboard proposal.<br>• Improved technical documentation and stakeholder communication skills.                                                                                                                                                                                                                                   |
-| **Deloitte Australia (Forage)** | Cyber Security Virtual Intern       | **May 2026 – Jun 2026 (2 Months)** | Remote | Cybersecurity, Network Analysis, Incident Response, Log Analysis, Risk Assessment               | • Investigated web activity logs to identify suspicious behavior.<br>• Assisted in responding to a simulated cyber security incident.<br>• Applied cyber security analysis techniques to support client investigations.                                                                                                                                                                                          |
-| **MyDailyWork**                 | Artificial Intelligence Intern      | **Mar 2026 – Apr 2026 (2 Months)** | Remote | Artificial Intelligence, Python, Machine Learning                                               | • Worked on AI-related projects and practical implementation tasks.<br>• Strengthened Python programming and AI development skills.<br>• Gained hands-on experience with real-world AI workflows.                                                                                                                                                                                                                |
-| **SaiKet Systems**              | Machine Learning Intern             | **Feb 2026 – Mar 2026 (2 Months)** | Remote | Python, Machine Learning, Data Analysis, Feature Engineering, Model Evaluation, Scikit-learn    | • Built and evaluated machine learning models using Python.<br>• Performed data preprocessing and feature engineering.<br>• Improved predictive model performance through optimization.<br>• Collaborated on real-world ML projects following industry practices.<br>• Enhanced analytical, documentation, and teamwork skills.                                                                                  |
-
-
-<br/>
-
-## `//` Certifications
-
-| Certification | Domain |
-|---|---|
-| MCP (Model Context Protocol) | AI Infrastructure |
-| RAG (Retrieval-Augmented Generation) | LLM Engineering |
-| Prompt Engineering for ChatGPT | Generative AI |
-| Computer Networks & Network Security | Cybersecurity |
-| Data Science | Analytics & ML |
-
-<br/>
-
-## `//` Languages Spoken
+<hr />
 
 <div align="center">
-
-English — Native/Bilingual &nbsp;·&nbsp; Telugu — Full Professional &nbsp;·&nbsp; Japanese — Full Professional &nbsp;·&nbsp; Tamil — Professional Working
-
+  <p>
+    <a href="https://github.com/N-RameshKernel">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow on GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/ramesh--n">
+      <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
+    </a>
+  </p>
+  <p><strong>Thanks for stopping by — let's build something useful together.</strong></p>
 </div>
 
-<br/>
-
-## `//` mission.md
-
-```yaml
-mission:
-  - Build intelligent software
-  - Protect privacy by design
-  - Create open-source AI
-  - Help developers ship faster
-  - Build products used globally
-```
-
-<br/>
-
-<div align="center">
-
-> *"Most systems are built to be seen. I build the ones that keep running after everyone stops watching."*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:0A0A12&height=120&section=footer" alt="footer" />
-
-**Thanks for stopping by — let's build something that lasts.**
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,50:E23636,100:111827&amp;height=120&amp;section=footer" alt="Spider-Man themed footer" />
+</p>
